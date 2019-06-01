@@ -1,0 +1,89 @@
+name: augmented_goals
+description: A Flutter application for goal accomplishment
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # TODO Evaluate if dependencies are needed
+  rxdart: ^0.19.0 # https://pub.dartlang.org/packages/rxdart - Apache2
+  #bloc: ^0.6.0
+
+  # Third Party
+  #flutter_picker: ^1.0.7
+  datetime_picker_formfield: ^0.1.8
+  #flutter_duration_picker: ^1.0.4
+
+  flutter_auth_buttons: ^0.5.0
+  flutter_local_notifications: ^0.6.0 # https://pub.dartlang.org/packages/flutter_local_notifications - BSD
+  charts_flutter: ^0.6.0 # https://pub.dartlang.org/packages/charts_flutter - MIT
+  flutter_cache_manager: ^0.3.2 # https://pub.dartlang.org/packages/flutter_cache_manager - MIT
+  cached_network_image: ^0.7.0 # https://pub.dartlang.org/packages/cached_network_image - MIT
+  flutter_image_compress: ^0.2.3 # https://pub.dartlang.org/packages/flutter_image_compress - MIT
+  flutter_facebook_login: ^2.0.0 # https://pub.dartlang.org/packages/flutter_facebook_login - BSD
+  #strings: ^0.1.0 # https://pub.dartlang.org/packages/strings - BSD
+  uuid: ^2.0.0 # https://pub.dartlang.org/packages/uuid - MIT
+  #cached_network_image: ^0.5.1 # https://pub.dartlang.org/packages/cached_network_image - MIT
+  exif: ^1.0.0 # https://pub.dartlang.org/packages/exif - GPL3
+  timeago: ^2.0.9 # https://pub.dartlang.org/packages/timeago - MIT
+  flutter_launcher_icons: ^0.7.0 # https://pub.dartlang.org/packages/flutter_launcher_icons - MIT
+  flutter_map: ^0.3.0 # https://pub.dartlang.org/packages/flutter_map - BSD
+  latlong: ^0.6.1 # https://pub.dartlang.org/packages/latlong - Apache2
+  location: ^2.3.4 # https://pub.dartlang.org/packages/location - BSD
+  # Google - Official packages
+  path_provider: ^0.5.0+1 # https://pub.dartlang.org/packages/path_provider - BSD
+  shared_preferences: ^0.4.3 # https://pub.dartlang.org/packages/shared_preferences - BSD
+  firebase_auth: ^0.8.3 # https://pub.dartlang.org/packages/firebase_auth - BSD
+  google_sign_in: ^4.0.1+1 # https://pub.dartlang.org/packages/cloud_firestore - BSD
+  cloud_firestore: ^0.9.0+1 # https://pub.dartlang.org/packages/cloud_firestore - BSD
+  firebase_storage: ^2.0.1 # https://pub.dartlang.org/packages/firebase_storage - BSD
+  firebase_messaging: ^3.0.1 # https://pub.dartlang.org/packages/firebase_messaging - BSD
+  image_picker: ^0.5.0+3 # https://pub.dartlang.org/packages/image_picker - Apache2
+  url_launcher: ^5.0.1 # https://pub.dartlang.org/packages/url_launcher - BSD
+  share: ^0.6.0+1 # https://pub.dartlang.org/packages/share - BSD
+  json_annotation: ^2.0.0 # https://pub.dartlang.org/packages/json_annotation - BSD
+  built_value: ^6.3.0 # https://pub.dartlang.org/packages/built_value - BSD
+  built_collection: ^4.1.0 # https://pub.dartlang.org/packages/built_collection - BSD
+
+
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  test: any
+
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^1.0.0 # https://pub.dartlang.org/packages/build_runner - BSD
+  built_value_generator: ^6.1.6 # https://pub.dartlang.org/packages/built_value_generator - BSD
+  json_serializable: ^2.0.0 # https://pub.dartlang.org/packages/json_serializable - BSD
+
+  image_test_utils: ^1.0.0 # https://pub.dartlang.org/packages/image_test_utils - BSD
+
+  # flutter_launcher_icons: "^0.7.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/logo.jpg"
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
+
+
+  # For future features, (normal dependencies, not dev):
+  #firestore_helpers: ^2.0.7
+  #k_means_cluster: ^0.2.1
+  # https://pub.dartlang.org/packages/cloud_firestore#-installing-tab
+  # Check here for future dex problems: https://firebase.google.com/docs/android/setup#available_libraries
+
+
+
+# Default links to various help resources:
+# https://www.dartlang.org/tools/pub/pubspec
+# https://flutter.io/assets-and-images/#resolution-aware.
+# https://flutter.io/assets-and-images/#from-packages
+# https://flutter.io/custom-fonts/#from-packages

@@ -1,0 +1,4 @@
+All files with keys to accounts have been removed.
+This is per the agreement I made with the NSD.
+SetGoals will be removed from Google Play and Apples App Store sometime shortly after the 18.06.19.
+The firebase project will be shutdown shortly before.

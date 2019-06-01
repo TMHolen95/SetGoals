@@ -1,0 +1,11 @@
+Campaign report
+All time
+Campaign status,Campaign,Budget name,Currency code,Budget,Budget type,Status,Conversions,Cost / conv.,Conv. rate,Cost,Clicks,Impr.,CTR,Avg. CPC
+Paused,SetGoals Android Campaign 3, --,NOK,100.00,Daily,Paused,89.00,4.53,11.14%,402.96,799,"64,526",1.24%,0.50
+Paused,SetGoals Android Campaign 2, --,NOK,75.00,Daily,Paused,0.00,0.00,0.00%,0.00,0,6,0.00%, --
+Paused,SetGoals Android Campaign 4, --,NOK,100.00,Daily,Paused,158.00,2.35,15.98%,372.09,989,"40,931",2.42%,0.38
+Paused,SetGoals Android Campaign, --,NOK,50.00,Daily,Paused,115.00,3.27,9.70%,376.52,"1,186","67,277",1.76%,0.32
+Paused,SetGoals iOS Campaign, --,NOK,150.00,Daily,Paused,0.00,0.00,0.00%,210.75,614,"19,404",3.16%,0.34
+Total: Campaigns,,,NOK,,,,362.00,3.76,10.09%,1362.32,"3,588","192,144",1.87%,0.38
+Total: Account,,,NOK,,,,362.00,3.76,10.09%,1362.32,"3,588","192,144",1.87%,0.38
+Total: App,,,NOK,,,,362.00,3.76,10.09%,1362.32,"3,588","192,144",1.87%,0.38

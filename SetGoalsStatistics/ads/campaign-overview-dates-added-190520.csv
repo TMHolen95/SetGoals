@@ -1,0 +1,5 @@
+,Campaign,Campaign.state,Campaign.type,Currency,Clicks,Impressions,CTR,AvgCPC,Cost,Conversions,CostPerConvNOK,ConvRate,campaignStartDates,campaignEndDates,campaignAudience,campaignTarget,campaignNames,CostPerConvUSD
+1,SetGoals Android Campaign,Paused,Universal app,NOK,1186,67277,1.76,0.32,376.52,115,3.27,9.70,24.04.19,30.04.19,World-wide,Android,And1,0.38
+2,SetGoals iOS Campaign,Paused,Universal app,NOK,614,19404,3.16,0.34,210.75,0,0,0.00,29.04.19,30.04.19,World-wide,iOS,iOS1,0
+3,SetGoals Android Campaign 2,Paused,Universal app,NOK,0,6,0.00,0,0,0,0,0.00,05.05.19,06.05.19,Norway,Android,And2,0
+4,SetGoals Android Campaign 3,Paused,Universal app,NOK,799,64544,1.24,0.5,402.96,89,4.53,11.14,06.05.19,09.05.19,Europe,Android,And3,0.53

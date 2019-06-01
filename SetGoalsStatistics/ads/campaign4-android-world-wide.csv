@@ -1,0 +1,49 @@
+Geographic location report
+All time
+Location,Bid adj.,Added/Excluded,Location type,Clicks,Impr.,CTR,Currency code,Avg. CPC,Cost,Conversions,Cost / conv.,Conv. rate
+Niger, --,None,Physical location,5,72,6.94%,NOK,0.30,1.49,1.00,1.49,20.00%
+Macedonia (FYROM), --,None,Physical location,1,111,0.90%,NOK,0.21,0.21,1.00,0.21,100.00%
+Angola, --,None,Physical location,1,73,1.37%,NOK,0.51,0.51,1.00,0.51,100.00%
+Moldova, --,None,Physical location,1,4,25.00%,NOK,0.30,0.30,1.00,0.30,100.00%
+Bangladesh, --,None,Physical location,42,"1,110",3.78%,NOK,0.42,17.77,7.00,2.54,16.67%
+Myanmar (Burma), --,None,Physical location,4,87,4.60%,NOK,0.32,1.28,1.00,1.28,25.00%
+Jordan, --,None,Physical location,10,388,2.58%,NOK,0.10,1.04,1.00,1.04,10.00%
+Benin, --,None,Physical location,6,143,4.20%,NOK,0.46,2.76,2.00,1.38,33.33%
+Belarus, --,None,Physical location,4,13,30.77%,NOK,0.42,1.69,1.00,1.69,25.00%
+Nigeria, --,None,Physical location,5,287,1.74%,NOK,0.81,4.04,1.00,4.04,20.00%
+Algeria, --,None,Physical location,60,"2,855",2.10%,NOK,0.26,15.57,9.00,1.73,15.00%
+Bolivia, --,None,Physical location,7,178,3.93%,NOK,0.77,5.42,3.00,1.81,42.86%
+Kyrgyzstan, --,None,Physical location,2,44,4.55%,NOK,0.24,0.48,1.00,0.48,50.00%
+Ethiopia, --,None,Physical location,10,198,5.05%,NOK,0.24,2.43,2.00,1.22,20.00%
+Sudan, --,None,Physical location,14,342,4.09%,NOK,0.44,6.10,1.00,6.10,7.14%
+Jamaica, --,None,Physical location,2,71,2.82%,NOK,0.71,1.41,1.00,1.41,50.00%
+Syria, --,None,Physical location,7,246,2.85%,NOK,0.37,2.58,3.00,0.86,42.86%
+Tunisia, --,None,Physical location,13,642,2.02%,NOK,0.24,3.06,1.00,3.06,7.69%
+Pakistan, --,None,Physical location,55,"3,672",1.50%,NOK,0.29,15.93,4.00,3.98,7.27%
+Chile, --,None,Physical location,3,81,3.70%,NOK,1.24,3.73,2.00,1.86,66.67%
+Lebanon, --,None,Physical location,5,429,1.17%,NOK,0.42,2.10,2.00,1.05,40.00%
+Mongolia, --,None,Physical location,4,80,5.00%,NOK,0.35,1.40,2.00,0.70,50.00%
+Laos, --,None,Physical location,2,53,3.77%,NOK,0.44,0.88,1.00,0.88,50.00%
+Morocco, --,None,Physical location,48,"1,548",3.10%,NOK,0.20,9.42,3.00,3.14,6.25%
+Cuba, --,None,Physical location,1,69,1.45%,NOK,0.66,0.66,1.00,0.66,100.00%
+India, --,None,Physical location,252,"9,605",2.62%,NOK,0.53,134.67,58.00,2.31,23.20%
+Ghana, --,None,Physical location,4,233,1.72%,NOK,0.48,1.92,1.00,1.92,25.00%
+Venezuela, --,None,Physical location,8,253,3.16%,NOK,0.15,1.20,1.00,1.20,12.50%
+Zambia, --,None,Physical location,4,121,3.31%,NOK,0.81,3.24,1.00,3.24,25.00%
+Guinea, --,None,Physical location,2,94,2.13%,NOK,0.29,0.58,1.00,0.58,50.00%
+Ecuador, --,None,Physical location,7,215,3.26%,NOK,0.72,5.01,4.00,1.25,57.14%
+Cote d'Ivoire, --,None,Physical location,3,77,3.90%,NOK,0.52,1.57,1.00,1.57,33.33%
+Colombia, --,None,Physical location,11,356,3.09%,NOK,0.91,10.05,5.00,2.01,45.45%
+Papua New Guinea, --,None,Physical location,1,22,4.55%,NOK,0.44,0.44,1.00,0.44,100.00%
+Kenya, --,None,Physical location,1,24,4.17%,NOK,0.48,0.48,1.00,0.48,100.00%
+Mali, --,None,Physical location,7,195,3.59%,NOK,0.16,1.10,1.00,1.10,14.29%
+Sierra Leone, --,None,Physical location,4,151,2.65%,NOK,0.32,1.30,2.00,0.65,50.00%
+Iran, --,None,Physical location,36,"1,412",2.55%,NOK,0.36,12.82,7.00,1.83,19.44%
+Nepal, --,None,Physical location,8,303,2.64%,NOK,0.31,2.45,2.00,1.22,25.00%
+Afghanistan, --,None,Physical location,6,164,3.66%,NOK,0.51,3.04,1.00,3.04,16.67%
+Palestine, --,None,Physical location,3,58,5.17%,NOK,0.48,1.45,1.00,1.45,33.33%
+Brazil, --,None,Physical location,12,588,2.04%,NOK,0.59,7.09,1.00,7.09,8.33%
+Iraq, --,None,Physical location,81,"3,660",2.21%,NOK,0.23,18.36,11.00,1.67,13.58%
+Albania, --,None,Physical location,2,73,2.74%,NOK,0.40,0.79,1.00,0.79,50.00%
+Vietnam, --,None,Physical location,1,52,1.92%,NOK,1.20,1.20,1.00,1.20,100.00%
+Egypt, --,None,Physical location,72,"2,364",3.05%,NOK,0.22,15.89,3.00,5.30,4.17%

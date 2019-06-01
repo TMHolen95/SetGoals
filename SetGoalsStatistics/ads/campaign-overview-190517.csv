@@ -1,0 +1,7 @@
+Campaign
+All Time
+Campaign,Campaign state,Campaign type,Currency,Clicks,Impressions,CTR,Avg. CPC,Cost,Conversions,Cost / conv.,Conv. rate
+SetGoals Android Campaign,Paused,Universal app,NOK,"1,186","67,277",1.76%,0.32,376.52,115.00,3.27,9.70%
+SetGoals iOS Campaign,Paused,Universal app,NOK,614,"19,404",3.16%,0.34,210.75,0.00,0.00,0.00%
+SetGoals Android Campaign 2,Paused,Universal app,NOK,0,6,0.00%,0.00,0.00,0.00,0.00,0.00%
+SetGoals Android Campaign 3,Paused,Universal app,NOK,799,"64,544",1.24%,0.50,402.96,89.00,4.53,11.14%

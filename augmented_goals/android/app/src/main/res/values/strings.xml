@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Augmented Goals</string>
+    <string name="facebook_app_id">604784449918402</string>
+    <string name="fb_login_protocol_scheme">fb604784449918402</string>
+</resources>
